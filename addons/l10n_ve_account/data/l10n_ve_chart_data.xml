@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <odoo>
-  <data noupdate="1">
+  <data noupdate="0">
     <record model="account.account.template" id="account_activa_account_1129003">
         <field name="code">1129003</field>
         <field name="name">TRANSFERENCIAS BANCARIAS</field>
